@@ -1,0 +1,4 @@
+tox
+cherrypy
+nose
+mongoengine
